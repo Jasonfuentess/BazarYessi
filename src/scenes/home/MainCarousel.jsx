@@ -82,13 +82,7 @@ const MainCarousel = () => {
           >
             <Typography color={shades.secondary[200]}>-- Nuevos artículos</Typography>
             <Typography variant="h1">MODA X MAYOR</Typography>
-            <Typography
-              fontWeight="bold"
-              color={shades.secondary[300]}
-              sx={{ textDecoration: "underline" }}
-            >
-              Explorar Más
-            </Typography>
+            
           </Box>
         </Box>
       ))}
