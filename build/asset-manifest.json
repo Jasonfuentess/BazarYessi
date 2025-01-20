@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/BazarYessi/static/css/main.d3543a61.css",
+    "main.js": "/BazarYessi/static/js/main.aafe7d5b.js",
+    "static/media/chris-ghinda-wK2ESlRRZQ8-unsplash.jpeg": "/BazarYessi/static/media/chris-ghinda-wK2ESlRRZQ8-unsplash.af2b3cfddbb3a08b3404.jpeg",
+    "static/media/larm-rmah-R1Ku62Z7zqE-unsplash.jpeg": "/BazarYessi/static/media/larm-rmah-R1Ku62Z7zqE-unsplash.3e7ce3adae077f962a41.jpeg",
+    "static/media/brooke-cagle-aVT8VkmzML4-unsplash.jpeg": "/BazarYessi/static/media/brooke-cagle-aVT8VkmzML4-unsplash.9f73716b2bcf02ff5b43.jpeg",
+    "static/media/jc-gellidon-JM8TkWJ9UIY-unsplash.jpeg": "/BazarYessi/static/media/jc-gellidon-JM8TkWJ9UIY-unsplash.e7d6ddae906b65f91c76.jpeg",
+    "static/media/toa-heftiba-dti56waifB4-unsplash.jpeg": "/BazarYessi/static/media/toa-heftiba-dti56waifB4-unsplash.9d675f9f8ff031439819.jpeg",
+    "index.html": "/BazarYessi/index.html",
+    "main.d3543a61.css.map": "/BazarYessi/static/css/main.d3543a61.css.map",
+    "main.aafe7d5b.js.map": "/BazarYessi/static/js/main.aafe7d5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3543a61.css",
+    "static/js/main.aafe7d5b.js"
+  ]
+}

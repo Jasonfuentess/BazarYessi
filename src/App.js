@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
+import { BrowserRouter, Routes, Route, useLocation, HashRouter } from "react-router-dom";
 import Home from "./scenes/home/Home";
 import Navbar from "./scenes/global/Navbar";
 import Footer from "./scenes/global/Footer";
@@ -24,7 +24,7 @@ const ScrollToTop = () => {
 function App() {
   return (
     <div className="app">
-      <BrowserRouter>
+      <HashRouter>
         <Navbar />
         <ScrollToTop />
         <Routes>
@@ -43,7 +43,7 @@ function App() {
         </Routes>
         <CartMenu />
         <Footer />
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
