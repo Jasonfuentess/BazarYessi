@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { BrowserRouter, Routes, Route, useLocation, HashRouter } from "react-router-dom";
+import { Routes, Route, useLocation, HashRouter } from "react-router-dom";
 import Home from "./scenes/home/Home";
 import Navbar from "./scenes/global/Navbar";
 import Footer from "./scenes/global/Footer";
