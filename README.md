@@ -26,7 +26,13 @@
 - View a complete list of placed orders
 - marked orders as completed or pending
 ---
+## 🌐 Live Demo
 
+Check out the live application:  
+👉 **[Yessis Bazar Demo](https://jasonfuentess.github.io/BazarYessi/#/)**  
+
+
+---
 ## 📸 Screenshots
 
 | Home Page | Product Management | Order Overview |
