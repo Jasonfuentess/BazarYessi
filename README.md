@@ -31,7 +31,7 @@
 
 | Home Page | Product Management | Order Overview |
 |-----------|--------------------|----------------|
-| ![Home](./src/assets/screenshots/home.png) | ![Admin](./screenshots/admin.png) | ![Orders](./screenshots/orders.png) |
+| ![Home](./src/assets/screenshots/home.png) | ![Admin](./src/assets/screenshots/admin.png) | ![Orders](./src/assets/screenshots/orders.png) |
 
 > 📁 Screenshots should be placed in a `/screenshots/` folder within the repo.
 
