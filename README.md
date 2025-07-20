@@ -33,7 +33,7 @@
 |-----------|--------------------|----------------|
 | ![Home](./src/assets/screenshots/home.png) | ![Admin](./src/assets/screenshots/admin.png) | ![Orders](./src/assets/screenshots/orders.png) |
 
-> 📁 Screenshots should be placed in a `/screenshots/` folder within the repo.
+> 📁 Screenshots should be placed in a `/src/assets/screenshots/` folder within the repo.
 
 ---
 
